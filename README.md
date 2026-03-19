@@ -107,18 +107,10 @@ CODE/
 
 ---
 
-## 🖼️ Instructional Figures
+## 🖼️ Figure
 
-| Figure | Description | Link |
-| :--- | :--- | :--- |
-| **Fig 1** | Terminal Setup in Raspbian | [View](https://www.electronicsforu.com/wp-content/uploads/2019/05/Fig.-1-1.jpg) |
-| **Fig 2** | Google Routines Interface | [View](https://www.electronicsforu.com/wp-content/uploads/2019/05/Fig.-2-1.jpg) |
-| **Fig 3** | Language Settings | [View](https://www.electronicsforu.com/wp-content/uploads/2019/05/Fig.-3-1.jpg) |
-| **Fig 4** | Creating Voice Commands | [View](https://www.electronicsforu.com/wp-content/uploads/2019/05/Fig.-4.jpg) |
-| **Fig 8** | Connection Diagram | [View](https://www.electronicsforu.com/wp-content/uploads/2019/05/Fig.-8-2.jpg) |
-| **Fig 10** | Android Manifest Setup | [View](https://www.electronicsforu.com/wp-content/uploads/2019/05/Fig.-10.jpg) |
+![WhatsApp Image 2026-03-19 at 11 50 34 AM](https://github.com/user-attachments/assets/4d0bef66-7b5b-4e56-ba3a-eedfd41ea4b2)
+
 
 ---
 
-## 📝 License & Credits
-Content and project concept based on the [Electronics For You](https://www.electronicsforu.com/electronics-projects/multi-language-voice-control-iot-home-automation-system-using-google-assistant-and-raspberry-pi) tutorial.
