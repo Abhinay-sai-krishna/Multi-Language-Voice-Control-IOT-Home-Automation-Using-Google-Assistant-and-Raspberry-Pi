@@ -1,6 +1,6 @@
 # Multi-Language Voice Control IoT Home Automation 🏠🌐
 
-![Home Automation Header](https://www.electronicsforu.com/wp-content/uploads/2019/05/Fig.-14.jpg)
+
 
 This project demonstrates a state-of-the-art **IoT Home Automation System** that allows users to control electrical appliances using voice commands in multiple languages (English, Hindi, etc.) via **Google Assistant** and a **Raspberry Pi**.
 
@@ -38,8 +38,6 @@ The Raspberry Pi is connected to the relay board to facilitate high-voltage swit
 - **Pin GND** (RPi) → **GND** (Relay Board)
 - **GPIO 22** (RPi) → **IN1** (Relay Board) *(Note: GPIO may vary; check your source code)*
 
-![Connection Diagram](https://www.electronicsforu.com/wp-content/uploads/2019/05/Fig.-8-2.jpg)
-*Figure 8: Hardware Connection Diagram*
 
 ---
 
@@ -87,8 +85,8 @@ The project includes a custom Android application developed in Android Studio.
 - **Manifest**: Ensure `<uses-permission android:name="android.permission.INTERNET" />` is added.
 - **WebView**: Configure the main activity to load the Raspberry Pi's local IP address.
 
-![Android App Prototype](https://www.electronicsforu.com/wp-content/uploads/2019/05/Fig.-14.jpg)
-*Figure 14: Final Android App Interface*
+
+
 
 ---
 
